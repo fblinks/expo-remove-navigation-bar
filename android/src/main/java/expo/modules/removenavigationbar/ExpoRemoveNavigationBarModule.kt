@@ -6,8 +6,6 @@ import java.net.URL
 import android.app.Activity
 import android.os.Build
 import android.view.View
-import expo.modules.kotlin.modules.Module
-import expo.modules.kotlin.modules.ModuleDefinition
 
 class ExpoRemoveNavigationBarModule : Module() {
   // Each module class must implement the definition function. The definition consists of components
